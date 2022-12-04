@@ -63,8 +63,7 @@
   width: 568px;
   position: absolute;
   right: 0;
-  top: 64px
-  ;
+  top: 64px;
 }
 /*
 div, header, section, ul, li, h2, h3, h4, p, img {
@@ -297,7 +296,6 @@ div, header, section, ul, li, h2, h3, h4, p, img {
 }
 
 .footer__columns {
-  margin: auto;
   display: flex;
   justify-content: space-between;
   width: 90%;
