@@ -153,7 +153,7 @@ div, header, section, ul, li, h2, h3, h4, p, img {
 .section-subtitle {
   width: 60%;
   text-align: center;
-  margin: auto;
+  margin: 20px auto 0;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
