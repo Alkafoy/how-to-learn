@@ -5,9 +5,9 @@
   font-size: 18px;
   font-weight: normal;
   margin: 0;
+  transition: 0.5s;
 }
 
 .footer__column-link:hover {
   opacity: 0.5;
-  transition: 0.5s;
 }
